@@ -9,8 +9,6 @@ theme:
   features:
     - tabs
 copyright: "Copyright © TART K.K. 2021"
-extra:
-  homepage: https://generativemasks.github.io/site/
 nav:
   - HOME: index.md
   - Artist: artist.md

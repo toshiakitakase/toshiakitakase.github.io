@@ -1,7 +1,7 @@
 # Artist
 
 ![takawo](./assets/images/artist.png)  
-Name: takawo shunsuke
+**takawo shunsuke**
 
 - [Twitter](https://twitter.com/takawo)
 - [OpenProcessing](https://openprocessing.org/user/6533)
