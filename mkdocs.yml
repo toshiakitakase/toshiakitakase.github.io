@@ -1,0 +1,18 @@
+site_name: Generativemasks Docs
+docs_dir: "docs"
+theme:
+  name: material
+  language: en
+  icon:
+    logo: assets/logo.png
+  favicon: assets/favicon.ico
+  # タブ表示を有効.
+  features:
+    - tabs
+copyright: "Copyright © TART K.K. 2021"
+extra:
+  homepage: https://generativemasks.github.io/site/
+nav:
+  - HOME: index.md
+  - Artist: artist.md
+  - Team: team.md
