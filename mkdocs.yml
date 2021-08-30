@@ -8,6 +8,7 @@ theme:
   # タブ表示を有効.
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
 copyright: "Copyright © TART K.K. 2021"
 nav:
   - HOME: index.md
