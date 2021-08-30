@@ -7,7 +7,7 @@ theme:
   favicon: assets/images/favicon.ico
   # タブ表示を有効.
   features:
-    - tabs
+    - navigation.tabs
 copyright: "Copyright © TART K.K. 2021"
 nav:
   - HOME: index.md
