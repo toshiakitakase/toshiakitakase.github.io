@@ -1,6 +1,6 @@
 # Artist
 
-![takawo](./assets/artist.png)  
+![takawo](./assets/images/artist.png)  
 Name: takawo shunsuke
 
 - [Twitter](https://twitter.com/takawo)
